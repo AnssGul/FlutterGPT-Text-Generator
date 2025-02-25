@@ -108,9 +108,9 @@ The bot can understand user queries and provide intelligent responses, making it
 
 ### ⏳ **Coding Activity (WakaTime Stats)**  
 <p align="center">
-  <figure>
-    <embed src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg"></embed>
-  </figure>
+  <p align="center">
+  <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg" alt="WakaTime Stats" width="400"/>
+</p>
 </p>
 
 <p align="center">
