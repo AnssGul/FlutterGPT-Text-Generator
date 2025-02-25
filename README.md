@@ -104,6 +104,15 @@ The bot can understand user queries and provide intelligent responses, making it
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnssGul&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
+---
+
+### ⏳ **Coding Activity (WakaTime Stats)**  
+<p align="center">
+  <figure>
+    <embed src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg"></embed>
+  </figure>
+</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding" width="400"/>
 </p>
